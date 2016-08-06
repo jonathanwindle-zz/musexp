@@ -23,22 +23,23 @@ For example:
 * Who last took a shower?
 * Whose Chinese zodiac animal would win in a bar fight?
 
-### First participant selects topic
+### First participant selects a topic
 
 The participant selected to go first now chooses a topic and a track of music
 that they feel best represents that topic for them.
 
 For example:
 
-* Happiness & "You Are My Sunshine/Just Dance" by Jonathan Bastiste & The Stay
-Human Band
-* Rebellion & "East Jesus Nowhere" by Green Day
-* The genocide of human experience through the cultural uprising of the Internet & "Huew
-Newton" + "Digital Witness" by St. Vincent
+* Happiness & "_You Are My Sunshine/Just Dance_" by Jonathan Bastiste & The Stay
+  Human Band
+* Rebellion & "_East Jesus Nowhere_" by Green Day
+* The genocide of human experience through the cultural uprising of the Internet
+  & "_Huew Newton_" + "_Digital Witness_" by St. Vincent
 
 ### Second participant agrees or challenges
 
 #### Agree
+
 The second participant can simply agree with the first's selection. If they
 choose to agree the second participant should provide a brief statement on
 why they think that the topic and the musical selection is a good match.
@@ -57,19 +58,19 @@ As before friendly debate may ensue and is encouraged.
 
 ### Switch and repeat
 
-After coming to an agreement (or disagreement as the case may be) the participant
-who was previously second now takes the role of the first participant and the
-process repeats.
+After coming to an agreement (or disagreement as the case may be) the
+participant who was previously second now takes the role of the first
+participant and the process repeats.
 
 The game continues until one of the following conditions are met:
 
 * A predetermined number of rounds have passed previously agreed upon by the
-participants
+  participants
 
 OR
 
 * One or both of the participants
     * is really board and can't imagine why they agreed to play this game
     * now has complete disdain for the others music selection
-    * are audiophiles, deeply enjoy the other participants music selection
-    and now need to get a room
+    * are audiophiles, deeply enjoy the other participants music selection, and
+      now need to get a room
