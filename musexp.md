@@ -18,9 +18,7 @@ by
 </a>
 is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-    Creative Commons Attribution-ShareAlike 4.0 International License
-</a>
-.
+    Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Overview
 
@@ -50,11 +48,11 @@ that they feel best represents that topic for them.
 
 For example:
 
-* Happiness & "_You Are My Sunshine/Just Dance_" by Jonathan Bastiste & The Stay
+* Happiness & “_You Are My Sunshine/Just Dance_” by Jonathan Bastiste & The Stay
   Human Band
-* Rebellion & "_East Jesus Nowhere_" by Green Day
+* Rebellion & “_East Jesus Nowhere_” by Green Day
 * The genocide of human experience through the cultural uprising of the Internet
-  & "_Huew Newton_" + "_Digital Witness_" by St. Vincent
+  & “_Huew Newton_” + “_Digital Witness_” by St. Vincent
 
 ### Second participant agrees or challenges
 
@@ -90,7 +88,7 @@ The game continues until one of the following conditions are met:
 OR
 
 * One or both of the participants
-    * is really board and can't imagine why they agreed to play this game
-    * now has complete disdain for the others music selection
-    * are audiophiles, deeply enjoy the other participants music selection, and
+    * is really bored and can't imagine why they agreed to play this game
+    * now has complete disdain for the other's music selection
+    * are audiophiles, deeply enjoy the other participant's music selection, and
       now need to get a room
